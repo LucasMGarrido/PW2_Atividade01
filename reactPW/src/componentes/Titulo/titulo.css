@@ -1,0 +1,22 @@
+.titulo {
+	margin: 0;
+	padding: 0;
+	text-align: start;
+}
+
+h1 {
+	font-size: 2.5em;
+	font-weight: 700;
+	color: #372d3b;
+}
+
+.titulo span {
+	color: #864293;
+}
+
+.titulo p {
+	font-size: 1.4em;
+	color: #372d3b;
+	font-weight: 400;
+	margin-top: -30px;
+}
